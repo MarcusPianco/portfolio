@@ -1,0 +1,7 @@
+server:
+  port: 3334
+
+db:
+  type: 'postgres'
+  port: 5431
+  database: 'portfolio'

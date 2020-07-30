@@ -1,0 +1,7 @@
+db:
+  host: 'localhost'
+  username: 'postgres'
+  password: 'docker'
+  synchronize: true
+  database: 'portfolio_test'
+  dropSchema: false
